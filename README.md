@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![votingsystem](https://user-images.githubusercontent.com/28641604/73107747-4166f500-3ec4-11ea-8a08-ba5a0c8018a0.png)
+
 ## Basic Voting-System application built with React 
 
 ## Features
